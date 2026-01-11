@@ -14,3 +14,4 @@ class Greeter {
         this.message = msg;
     } // Missing property type declaration and parameter type
 }
+const syntaxError = ;  // Intentional syntax error to force ESLint/Reviewdog failure
