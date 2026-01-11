@@ -1,3 +1,4 @@
+const forceError: number = "not a number";
 const unusedVariable = 42; // This variable is declared but not used
 
 export function greet(name) {
